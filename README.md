@@ -9,10 +9,10 @@
 <img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif">
                                                        
 - 🔭 I’m currently working on **MySkill😄**
-- 🌱 I’m currently learning **Masai School (Backend Developer)**
+- 🌱 I’m currently learning **Masai School (Frontend Developer)**
 - 💬 Ask me about **Front-End**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://SumitKDSarkar.github.io/MyPortfolio-main/)
--  📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1Dbg0g_-gXZrjv0g0i9ooHXtVtqsvmSR_/view?usp=sharing)
+-  📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1DCCKmZZaRXeRZeFVFy5z3cHHNG3XMRgB/view?usp=sharing)
 - 📫 How to reach me: ...**skumarcbr4@gmail.com**
 - 😄 Pronouns: ...@Sumit
 - ⚡ Fun fact: ...Always smile😄 in tough situation
@@ -60,9 +60,10 @@
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /> 
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongoDB-original-wordmark.svg" alt="mongoDB" height="50" /> 
 
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodeJS-original-wordmark.svg" alt="nodeJS" height="50" />
+	<img style="margin: 10px" src="<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodeJS-original-wordmark.svg" alt="react" height="50" />" alt="MySQL" height="50" />
 
 <!--    -->
 
