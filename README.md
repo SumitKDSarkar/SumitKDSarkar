@@ -63,7 +63,7 @@
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongoDB-original-wordmark.svg" alt="mongoDB" height="50" /> 
 
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodeJS-original-wordmark.svg" alt="nodeJS" height="50" />
-  <img style="margin: 10px"  src="https://profilinator.rishav.dev/skills-assets/nodeJS-original-wordmark.svg" alt="react" height="50" />
+  <img style="margin: 10px"  src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="react" height="50" />
 
 <!--    -->
 
