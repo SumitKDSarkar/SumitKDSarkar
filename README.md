@@ -9,7 +9,7 @@
 <img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif">
                                                        
 - 🔭 I’m currently working on **MySkill😄**
-- 🌱 I’m currently learning **Masai School (Frontend Developer)**
+- 🌱 I’m currently learning ** (Full-Stack Web Development)**
 - 💬 Ask me about **Front-End**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://SumitKDSarkar.github.io)
 -  📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1DCCKmZZaRXeRZeFVFy5z3cHHNG3XMRgB/view?usp=sharing)
@@ -76,7 +76,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Thanks!+For+Visiting+On+My+Profile!;See+You+Next-Time+Hope+u+like+its...👨🏻‍💻;" style="width: 100%;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Thanks!+For+Visiting+My+Profile!;See+You+Next-Time+Hope+u+like+it...👨🏻‍💻;" style="width: 100%;">
 
 <p align="center"><img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"></p>
 
