@@ -44,9 +44,9 @@
 <h3 align="left">Connect with me</h3>
 <p align="center">
 
-<a href="https://www.linkedin.com/in/sumit-sarkar-09a1a0220//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sumit Sarkar" height="30" width="40" /></a>
-<a href="https://youtube.com/channel/UCsxwht_uFh_G_iGmfNRs1bQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucsxwht_ufh_g_igmfnrs1bq/featured" height="30" width="40" /></a>
-</p>
+<a href="https://www.linkedin.com/in/sumit-kumar-dey-sarkar-09a1a0220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sumit Sarkar" height="30" width="40" /></a>
+<!-- <a href="https://youtube.com/channel/UCsxwht_uFh_G_iGmfNRs1bQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucsxwht_ufh_g_igmfnrs1bq/featured" height="30" width="40" /></a>
+</p> -->
  
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
