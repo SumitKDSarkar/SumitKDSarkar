@@ -27,7 +27,7 @@
   <img align="right" height="158em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SumitKDSarkar&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-<p align="centre">
+<!-- <p align="centre"> -->
 
 <img src="https://activity-graph.herokuapp.com/graph?username=SumitKDSarkar&theme=xcode" height ="307"/>
 	
@@ -37,7 +37,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"> 
 
-</p>
+<!-- </p> -->
 
 
 
