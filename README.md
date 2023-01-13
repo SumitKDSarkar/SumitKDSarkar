@@ -21,11 +21,11 @@
 
                                                        
 <h2><i>My GitHub Stats</i></h2>
-<p align="center">
-<a href="https://github.com/SumitKDSarkar">
-  <img align="left" height="158em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SumitKDSarkar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img align="right" height="158em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SumitKDSarkar&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SumitKDSarkar&label=Profile%20views&color=0e75b6&style=flat" /> </p>
+
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=SumitKDSarkar&show_icons=true&locale=en&theme=dark" alt="SumitKDSarkar"  height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SumitKDSarkar&show_icons=true&locale=en&layout=compact&theme=dark" alt="SumitKDSarkar" height="139" />
 </p>
 <!-- <p align="centre"> -->
 
