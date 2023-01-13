@@ -23,8 +23,8 @@
 <h2><i>My GitHub Stats</i></h2>
 <p align="center">
 <a href="https://github.com/SumitKDSarkar">
-  <img align="left" height="158em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahtishamkhan5678&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img align="right" height="158em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahtishamkhan5678&layout=compact&langs_count=8&theme=algolia"/>
+  <img align="left" height="158em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SumitKDSarkar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img align="right" height="158em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SumitKDSarkar&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 <p align="centre">
