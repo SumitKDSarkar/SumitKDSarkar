@@ -33,7 +33,7 @@
 	
 	<a href="https://github.com/SumitKDSarkar"><img alt="SumitKDSarkar Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=SumitKDSarkar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-![snake gif](https://github.com/SumitKDSarkar/SumitKDSarkar/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/ahtishamkhan5678/ahtishamkhan5678/blob/output/github-contribution-grid-snake.svg)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
