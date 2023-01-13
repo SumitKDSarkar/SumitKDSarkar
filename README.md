@@ -35,7 +35,7 @@
 
 ![snake gif](https://github.com/ahtishamkhan5678/ahtishamkhan5678/blob/output/github-contribution-grid-snake.svg)
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"> </p>
 
 
 
