@@ -35,8 +35,8 @@
 </a>
 </p>
 <!-- <p align="centre"> -->
-
-<img src="https://activity-graph.herokuapp.com/graph?username=SumitKDSarkar&theme=xcode" height ="307"/>
+<!-- 
+<img src="https://activity-graph.herokuapp.com/graph?username=SumitKDSarkar&theme=xcode" height ="307"/> -->
 	
 <!-- 	<a href="https://github.com/SumitKDSarkar"><img alt="SumitKDSarkar Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=SumitKDSarkar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
