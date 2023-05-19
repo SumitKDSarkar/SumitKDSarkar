@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on **MySkill😄**
 - 🌱 I’m currently learning ** (Full-Stack Web Development)**
 - 💬 Ask me about **Front-End**
-- 👨‍💻 Some of my projects are available at [My Portfolio](https://SumitKDSarkar.github.io)
+- 👨‍💻 Some of my projects are available at [My Portfolio](https://sumitkdsarkar.github.io)
 -  📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1DCCKmZZaRXeRZeFVFy5z3cHHNG3XMRgB/view?usp=sharing)
 - 📫 How to reach me: ...**skumarcbr4@gmail.com**
 - 😄 Pronouns: ...@Sumit
